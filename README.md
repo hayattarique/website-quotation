@@ -1,7 +1,7 @@
 # WEBSITE DEVELOPMENT QUOTATION  
 ## Prepared for: Nextron – Electrical & Instrumentation Services  
-Date: [Insert Date]  
-Quotation ID: NX-IND-2026-01  
+Date: 02-17-2026  
+Quotation ID: NX-IND-00113  
 
 ---
 
