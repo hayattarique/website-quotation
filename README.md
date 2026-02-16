@@ -101,9 +101,9 @@ This reflects:
 
 As a strategic partnership gesture:
 
-## Special Discount: $6,000 USD
+## Special Discount: 6,000 INR
 
-### Final Payable Amount: $6,000 USD
+### Final Payable Amount: 6,000 INR
 
 This is a one-time professional discount.
 
