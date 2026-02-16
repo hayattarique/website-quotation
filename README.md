@@ -84,7 +84,7 @@ Structured content development based on provided company profile:
 
 # Investment
 
-## Total Project Cost: $12,000 USD
+## Total Project Cost: 12,000 INT
 
 This reflects:
 
